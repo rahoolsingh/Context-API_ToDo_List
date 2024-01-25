@@ -4,13 +4,6 @@
 
 This Todo list application is built using React with the Context API for state management and Vite for fast development. It utilizes Tailwind CSS for styling, providing a clean and responsive user interface.
 
-## Features
-
-- Add new tasks to the todo list
-- Mark tasks as completed
-- Delete tasks from the list
-- Filter tasks by status (All, Active, Completed)
-- Store tasks locally, so they persist on page refresh
 
 ## Installation
 
