@@ -46,10 +46,10 @@ A live demo of this application is available at [theflyingmachine.netlify.app](h
 
 ## Author
 
-- **Rahool Singh**
-  - [GitHub](https://github.com/rahoolsingh)
-  - [Instagram](https://www.instagram.com/the_veer_rajpoot/)
-  - [LinkedIn](https://www.linkedin.com/in/rahoolsingh/)
+  [![GitHub](https://img.shields.io/badge/GitHub-rahoolsingh-blue?style=flat-square&logo=github)](https://github.com/rahoolsingh)
+  [![Instagram](https://img.shields.io/badge/Instagram-the__veer__rajpoot-red?style=flat-square&logo=instagram)](https://www.instagram.com/the_veer_rajpoot/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-rahoolsingh-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rahoolsingh/)
+
 
 ---
 © 2024 Rahool Singh. All rights reserved.
